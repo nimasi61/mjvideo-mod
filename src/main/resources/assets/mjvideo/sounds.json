@@ -1,0 +1,12 @@
+{
+  "effect1": {
+    "sounds": [
+      "mjvideo:effect1"
+    ]
+  },
+  "effect2": {
+    "sounds": [
+      "mjvideo:effect2"
+    ]
+  }
+}

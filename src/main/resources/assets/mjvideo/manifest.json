@@ -1,0 +1,19 @@
+{
+  "fps": 30,
+  "effects": [
+    {
+      "id": "effect1",
+      "frames": 83,
+      "width": 386,
+      "height": 640,
+      "fps": 30
+    },
+    {
+      "id": "effect2",
+      "frames": 83,
+      "width": 640,
+      "height": 640,
+      "fps": 30
+    }
+  ]
+}

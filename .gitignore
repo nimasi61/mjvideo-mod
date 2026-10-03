@@ -1,0 +1,28 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+
+# 运行时 / 日志
+run/
+logs/
+*.log
+hs_err_pid*
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 构建产物（想留档可注释掉下行）
+build/libs/

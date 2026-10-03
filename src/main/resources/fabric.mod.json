@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "mjvideo",
+  "version": "${version}",
+  "name": "MJ Video Overlay",
+  "description": "聊天栏出现指定关键词时，在屏幕上方播放随机特效视频（带透明通道）。内置配置界面，按快捷键（默认 K，可在按键控制中修改）打开。",
+  "authors": [
+    "Marvis"
+  ],
+  "license": "MIT",
+  "icon": "assets/mjvideo/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.mj.video.MjVideoMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric-api": "*",
+    "minecraft": "~1.20.1",
+    "java": ">=17"
+  }
+}
